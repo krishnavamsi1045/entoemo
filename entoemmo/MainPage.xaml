@@ -11,7 +11,7 @@
 
             <Image
                 Source="dotnet_bot.png"
-                SemanticProperties.Description="Cute dot net bot waving pora munna bhaay hi to you!"
+                SemanticProperties.Description="Cute dot net bot waving pora munna bhaay bhaya lake bhaya hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
